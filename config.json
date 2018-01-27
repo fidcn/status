@@ -1,6 +1,6 @@
 {
     "footer": "Status page hosted by GitHub",
-    "logo": "https://raw.githubusercontent.com/hoosierhometown/status/status_logo.png",
+    "logo": "http://hoosierhometown.github.io/status/status_logo.png",
     "title": "Hoosier Hometown System Status",
     "favicon": "https://raw.githubusercontent.com/jayfk/statuspage/master/template/favicon.png"
 }
